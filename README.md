@@ -1,25 +1,32 @@
-# Data Structures & Algorithms 🚀
+# Data Structures & Algorithms in Java 🚀
 
-This repository contains my DSA practice solutions in **C++** (change if needed).
+This repository contains my **Data Structures & Algorithms (DSA)** practice solutions implemented in **Java**.  
+It is designed to improve problem-solving skills, prepare for coding interviews, and maintain clean, optimized solutions.
+
+---
 
 ## 📌 Topics Covered
 - Arrays
 - Strings
-- Linked List
+- Linked Lists
 - Stack & Queue
 - Trees
 - Graphs
 - Recursion
 - Dynamic Programming
+- Greedy Algorithms
+- Backtracking
 
-## 🧠 Goal
-- Improve problem-solving skills
-- Prepare for coding interviews
-- Maintain clean and optimized solutions
+---
 
 ## 🛠 Language
-- C++ (or Python / Java)
+- Java (JDK 17+ recommended)
 
-## ⭐ How to use
-- Each folder represents a topic
-- Each file contains one problem with comments
+---
+
+## 🧠 Repository Structure
+Each folder represents a DSA topic.  
+Each Java file contains a single problem with comments explaining the approach, along with **time & space complexity**.
+
+Example:
+
